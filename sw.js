@@ -2,7 +2,7 @@ const CACHE_NAME = 'my-app-cache-v1';
 const ASSETS = [
   './',
   './index.html',
-  './painel.html', 
+  './cozinha.html', 
   './manifest.json',
   './assets/logo.png',
   './assets/logopwa.png',
